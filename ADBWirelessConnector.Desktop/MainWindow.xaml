@@ -1,0 +1,58 @@
+﻿<Window x:Class="ADBWirelessConnector.Desktop.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ADBWirelessConnector.Desktop"
+        mc:Ignorable="d"
+        Title="Wireless Phone Connector" Height="300" Width="400"
+        WindowStartupLocation="CenterScreen"
+        ResizeMode="CanMinimize" Icon="resources/logo.png">
+
+    <Window.Resources>
+        <local:EnumToBrushConverter x:Key="EnumToBrushConverter" />
+    </Window.Resources>
+    
+    <Grid Background="{DynamicResource Background}">
+
+        <Border Padding="3" Margin="40 5" CornerRadius="3" Background="{Binding Status, Converter={StaticResource EnumToBrushConverter}}" VerticalAlignment="Top" />
+
+        <StackPanel Margin="20 10">
+            
+            <StackPanel>
+                <TextBlock Text="ADB path" Style="{DynamicResource Label}" />
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*" />
+                        <ColumnDefinition Width="100" />
+                    </Grid.ColumnDefinitions>
+                    
+                    <TextBox Grid.Column="0" x:Name="path" Style="{DynamicResource Entry}" />
+                    <Button Grid.Column="1" x:Name="browseButton" Content="Browse..." Click="OnBrowse" Style="{DynamicResource SecondaryButton}" />
+                </Grid>
+            </StackPanel>
+            
+            <StackPanel>
+                <TextBlock Text="Phone local address" Style="{DynamicResource Label}" />
+                <TextBox x:Name="address" Style="{DynamicResource Entry}" />
+            </StackPanel>
+            
+            <StackPanel>
+                <TextBlock Text="Port" Style="{DynamicResource Label}" />
+                <TextBox x:Name="port" Style="{DynamicResource Entry}" />
+            </StackPanel>
+
+            <Grid Margin="0 20">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*" />
+                    <ColumnDefinition Width="*" />
+                </Grid.ColumnDefinitions>
+
+                <Button Grid.Column="0" x:Name="disconnect" Content="Disconnect" Click="OnDisconnect" Style="{DynamicResource SecondaryButton}" IsEnabled="False"/>
+                <Button Grid.Column="1" x:Name="connect" Content="Connect" Click="OnConnect" Style="{DynamicResource PrimaryButton}"/>
+            </Grid>
+
+        </StackPanel>
+
+    </Grid>
+</Window>

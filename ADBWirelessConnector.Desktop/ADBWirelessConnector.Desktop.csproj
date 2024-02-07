@@ -1,0 +1,36 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="logo.svg" />
+    <None Remove="resources\logo.jpg" />
+    <None Remove="resources\logo.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ADBWirelessConnector.Core\ADBWirelessConnector.Core.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="bin\Debug\net8.0-windows\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="resources\logo.jpg" />
+  </ItemGroup>
+
+    <ItemGroup>
+        <None Remove="resources\logo.png" />
+    </ItemGroup>
+    <ItemGroup>
+        <Resource Include="resources\logo.png" />
+    </ItemGroup>
+
+</Project>
