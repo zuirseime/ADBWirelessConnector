@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "NpqA9U3bjf/zadM4EEDAp0MCt+n+YgRdv4m1UP1dmvhrxAosrnfP/XeoB/YfwyfwCsuguvgOS8M1NHnmt7KUjw==",
+  "success": true,
+  "projectFilePath": "E:\\Projects\\Cs\\WPF\\ADBWirelessConnector\\ADBWirelessConnector.Desktop\\ADBWirelessConnector.Desktop.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vovak\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.1\\microsoft.net.illink.tasks.8.0.1.nupkg.sha512",
+    "C:\\Users\\vovak\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\8.0.1\\microsoft.netcore.app.runtime.win-x64.8.0.1.nupkg.sha512",
+    "C:\\Users\\vovak\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\8.0.1\\microsoft.windowsdesktop.app.runtime.win-x64.8.0.1.nupkg.sha512",
+    "C:\\Users\\vovak\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\8.0.1\\microsoft.aspnetcore.app.runtime.win-x64.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

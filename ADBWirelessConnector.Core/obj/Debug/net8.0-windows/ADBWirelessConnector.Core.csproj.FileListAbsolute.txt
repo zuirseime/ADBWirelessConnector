@@ -9,3 +9,4 @@ E:\Projects\Cs\WPF\ADBWirelessConnector\ADBWirelessConnector.Core\obj\Debug\net8
 E:\Projects\Cs\WPF\ADBWirelessConnector\ADBWirelessConnector.Core\obj\Debug\net8.0-windows\refint\ADBWirelessConnector.Core.dll
 E:\Projects\Cs\WPF\ADBWirelessConnector\ADBWirelessConnector.Core\obj\Debug\net8.0-windows\ADBWirelessConnector.Core.pdb
 E:\Projects\Cs\WPF\ADBWirelessConnector\ADBWirelessConnector.Core\obj\Debug\net8.0-windows\ref\ADBWirelessConnector.Core.dll
+E:\Projects\Cs\WPF\ADBWirelessConnector\ADBWirelessConnector.Core\obj\Debug\net8.0-windows\ADBWirelessConnector.Core.sourcelink.json

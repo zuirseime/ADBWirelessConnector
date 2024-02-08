@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ADBWirelessConnector.Core")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+470b156d23470ff3ab6d54d91a7c59fa88637368")]
 [assembly: System.Reflection.AssemblyProductAttribute("ADBWirelessConnector.Core")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ADBWirelessConnector.Core")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

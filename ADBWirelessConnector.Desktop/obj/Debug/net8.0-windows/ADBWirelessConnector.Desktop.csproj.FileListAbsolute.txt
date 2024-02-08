@@ -29,3 +29,4 @@ E:\Projects\Cs\WPF\ADBWirelessConnector\ADBWirelessConnector.Desktop\obj\Debug\n
 E:\Projects\Cs\WPF\ADBWirelessConnector\ADBWirelessConnector.Desktop\obj\Debug\net8.0-windows\Styles\Buttons.baml
 E:\Projects\Cs\WPF\ADBWirelessConnector\ADBWirelessConnector.Desktop\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
 E:\Projects\Cs\WPF\ADBWirelessConnector\ADBWirelessConnector.Desktop\obj\Debug\net8.0-windows\ADBWirelessConnector.Desktop_Content.g.cs
+E:\Projects\Cs\WPF\ADBWirelessConnector\ADBWirelessConnector.Desktop\obj\Debug\net8.0-windows\ADBWirelessConnector.Desktop.sourcelink.json

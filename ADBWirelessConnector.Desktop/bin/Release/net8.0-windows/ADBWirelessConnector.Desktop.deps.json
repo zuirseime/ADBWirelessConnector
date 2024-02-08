@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ADBWirelessConnector.Desktop/1.0.0": {
+        "dependencies": {
+          "ADBWirelessConnector.Core": "1.0.0"
+        },
+        "runtime": {
+          "ADBWirelessConnector.Desktop.dll": {}
+        }
+      },
+      "ADBWirelessConnector.Core/1.0.0": {
+        "runtime": {
+          "ADBWirelessConnector.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ADBWirelessConnector.Desktop/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ADBWirelessConnector.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

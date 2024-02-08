@@ -1,8 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "a+bePwK0Kc4i348mSjOBseUXb5jFZBtXxE1zmYMlORgHF1F44pd7mhQcCBGJ2lXBWDMYBhRse6Lhksw5pyALIw==",
+  "dgSpecHash": "OJBQG84JcxbqRZq/gYPSeIjQjOalGnE470LmEzILednzmValx71Pk4FzzFrGnG3mO9A0zBvEBfG20M4fIVlz3Q==",
   "success": true,
   "projectFilePath": "E:\\Projects\\Cs\\WPF\\ADBWirelessConnector\\ADBWirelessConnector.Core\\ADBWirelessConnector.Core.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\vovak\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.1\\microsoft.net.illink.tasks.8.0.1.nupkg.sha512",
+    "C:\\Users\\vovak\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\8.0.1\\microsoft.netcore.app.runtime.win-x86.8.0.1.nupkg.sha512",
+    "C:\\Users\\vovak\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\8.0.1\\microsoft.windowsdesktop.app.runtime.win-x86.8.0.1.nupkg.sha512",
+    "C:\\Users\\vovak\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\8.0.1\\microsoft.aspnetcore.app.runtime.win-x86.8.0.1.nupkg.sha512",
+    "C:\\Users\\vovak\\.nuget\\packages\\microsoft.netcore.app.crossgen2.win-x64\\8.0.1\\microsoft.netcore.app.crossgen2.win-x64.8.0.1.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -66,17 +66,9 @@ public partial class MainWindow : Window, INotifyPropertyChanged {
             return;
         }
 
-        if (adb.GetDevices().Length == 0) {
-            ThrowError("Connect your device first.");
-            return;
-        } else if (adb.GetDevices().Length > 1) {
+        if (adb.GetDevices().Length > 1) {
             adb.DisconnectAll();
             Connect();
-        }
-
-        if (!adb.OpenPort(port.Text)) {
-            ThrowError("Something wrong with your port.");
-            return;
         }
 
         if (!adb.Connect(address.Text, port.Text)) {

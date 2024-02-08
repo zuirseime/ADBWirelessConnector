@@ -1,0 +1,12 @@
+E:\Projects\Cs\WPF\ADBWirelessConnector\ADBWirelessConnector.Core\bin\Release\net8.0-windows\ADBWirelessConnector.Core.deps.json
+E:\Projects\Cs\WPF\ADBWirelessConnector\ADBWirelessConnector.Core\bin\Release\net8.0-windows\ADBWirelessConnector.Core.dll
+E:\Projects\Cs\WPF\ADBWirelessConnector\ADBWirelessConnector.Core\bin\Release\net8.0-windows\ADBWirelessConnector.Core.pdb
+E:\Projects\Cs\WPF\ADBWirelessConnector\ADBWirelessConnector.Core\obj\Release\net8.0-windows\ADBWirelessConnector.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\Cs\WPF\ADBWirelessConnector\ADBWirelessConnector.Core\obj\Release\net8.0-windows\ADBWirelessConnector.Core.AssemblyInfoInputs.cache
+E:\Projects\Cs\WPF\ADBWirelessConnector\ADBWirelessConnector.Core\obj\Release\net8.0-windows\ADBWirelessConnector.Core.AssemblyInfo.cs
+E:\Projects\Cs\WPF\ADBWirelessConnector\ADBWirelessConnector.Core\obj\Release\net8.0-windows\ADBWirelessConnector.Core.csproj.CoreCompileInputs.cache
+E:\Projects\Cs\WPF\ADBWirelessConnector\ADBWirelessConnector.Core\obj\Release\net8.0-windows\ADBWirelessConnector.Core.sourcelink.json
+E:\Projects\Cs\WPF\ADBWirelessConnector\ADBWirelessConnector.Core\obj\Release\net8.0-windows\ADBWirelessConnector.Core.dll
+E:\Projects\Cs\WPF\ADBWirelessConnector\ADBWirelessConnector.Core\obj\Release\net8.0-windows\refint\ADBWirelessConnector.Core.dll
+E:\Projects\Cs\WPF\ADBWirelessConnector\ADBWirelessConnector.Core\obj\Release\net8.0-windows\ADBWirelessConnector.Core.pdb
+E:\Projects\Cs\WPF\ADBWirelessConnector\ADBWirelessConnector.Core\obj\Release\net8.0-windows\ref\ADBWirelessConnector.Core.dll

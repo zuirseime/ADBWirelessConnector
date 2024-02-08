@@ -1,0 +1,8 @@
+E:\User Data\Desktop\WirelessPhoneConnector\ADBWirelessConnector.Desktop.pdb
+E:\User Data\Desktop\WirelessPhoneConnector\D3DCompiler_47_cor3.dll
+E:\User Data\Desktop\WirelessPhoneConnector\PenImc_cor3.dll
+E:\User Data\Desktop\WirelessPhoneConnector\PresentationNative_cor3.dll
+E:\User Data\Desktop\WirelessPhoneConnector\vcruntime140_cor3.dll
+E:\User Data\Desktop\WirelessPhoneConnector\wpfgfx_cor3.dll
+E:\User Data\Desktop\WirelessPhoneConnector\ADBWirelessConnector.Core.pdb
+E:\User Data\Desktop\WirelessPhoneConnector\ADBWirelessConnector.Desktop.exe
